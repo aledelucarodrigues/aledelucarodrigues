@@ -2,10 +2,10 @@
 ##
 
 <a href="https://github-readme-stats.vercel.app/api?username=aledelucarodrigues&show_icons=true&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aledelucarodrigues&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=aledelucarodrigues&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=aledelucarodrigues">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aledelucarodrigues&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aledelucarodrigues&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
