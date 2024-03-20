@@ -1,5 +1,14 @@
 
-##
+## Welcome! 
+
+👩🏻‍💻Hi, my name is **Alessandra Cunha de Luca Rodrigues**
+
+💻 **Full Stack Web Developer** by Recode Pro.
+
+📔 I have a degree in Business Administration from Universidade Positivo.
+
+💃🏻 I'm passionate about motherhood, jazz dance and soccer.
+
 
 <a href="https://github-readme-stats.vercel.app/api?username=aledelucarodrigues&show_icons=true&theme=radical">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=aledelucarodrigues&show_icons=true&theme=tokyonight&rank_icon=github" />
